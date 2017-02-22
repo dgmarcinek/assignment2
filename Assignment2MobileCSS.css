@@ -1,33 +1,33 @@
 body {
-	width: 75%;
-	max-width: 767px;
-	background-color: PapayaWhip;
+  width: 75%;
+  max-width: 767px;
+  background-color: PapayaWhip;
 }
 
 header {
-	width: 90%;
-	padding: .7%;
-	float: left;
+  width: 90%;
+  padding: .7%;
+  float: left;
 }
 
 main {
-	width: 60%;
-	padding: 1%;
-	float: left;
+  width: 60%;
+  padding: 1%;
+  float: left;
 }
 
 h1 {
-	font-style: italic;
-	font-family: georgian;
-	clear: both;
+  font-style: italic;
+  font-family: georgian;
+  clear: both;
 }
 
 form {
-	border: .3px solid blue;
-	padding: 1.5%;
+  border: .3px solid blue;
+  padding: 1.5%;
 }
 
 footer {
-	width: 75%;
-	clear: both;
+  width: 75%;
+  clear: both;
 }
